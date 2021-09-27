@@ -1,0 +1,9 @@
+{
+    "part1": " اسمي هوا علي اعمل في",
+    "part2": "شركة أكواد",
+    "date": "اليوم هو{{date, DATE_HUGE}} ",
+    "date_morning": " صباح الخير  اليوم هو{{date, DATE_HUGE}} طاب يومك!",
+    "date_afternoon": "{{date, DATE_HUGE}} مساء الخير! إنه",
+    "date_evening": "{{date, DATE_HUGE}} مساء الخير! اليوم كان ",
+    "Test": "مرحبا بك في الصفحة الرئيسية"
+}
